@@ -1,0 +1,6 @@
+{
+  "name": "Auto Video Studio",
+  "description": "Workstation de automação de vídeo com IA, gerador de cortes virais para Shorts/Reels/TikTok, editor NLE multi-trilha e publicador agendador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
